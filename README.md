@@ -8,8 +8,8 @@ open http://localhost:3000
 
 ## Tasks
 
-- Please add pagination support to the list when there are more than 2 entries
-- Please add option to select sex of a friend male/female and display it
+- Add a `gender` information for each `friend` in the list
+- Provide a `gender` selection input when adding a new `friend` in the list
 - Please add tests using your preferred testing tool (jest, mocha, should.js ...)
 
 ## Objectives
